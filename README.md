@@ -1,1 +1,2 @@
 # Cake-Expert-System
+The cake expert system is a simple system that can be used to diagnose and fix problems with baking cakes. The system is based on a set of facts and rules about cake baking. The facts include things like the different types of cakes, the ingredients needed to make each type of cake, and the common problems that can occur when baking cakes. The rules are used to match the facts to the problems and to generate solutions.
